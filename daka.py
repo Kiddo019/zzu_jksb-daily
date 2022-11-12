@@ -159,7 +159,7 @@ def sign_in(id, pwd, name="Turing", check_today=1):
         # "myvs_14b": "",  # 该选项已弃用
         # "memo22": "请求超时",  # [待定] 位置获取情况
         
-        
+        # melan
         "memo22": "河南.郑州市",  # [待定] 位置获取情况
         
         "did": "2",  # 以此为界 往下为hidden值
